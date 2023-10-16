@@ -1,0 +1,21 @@
+提取视频或者提取语音
+视频转语音两种：
+                       1.https://app.xunjiepdf.com/mp42mp3/            
+                       2.https://www.aconvert.com/cn/file.php
+语音转文字：
+               https://app.xunjiepdf.com/voice2text/
+
+
+pytube爬取YOUTUBE视频：1.https://steam.oxxostudio.tw/category/python/example/youtube-download.html
+                                           2.https://www.cnblogs.com/heranly-go/p/10167673.html
+pytube爬取YOUTUBE视频错误解决（登陆一次YouTube账号，用谷歌账号）：https://www.jianshu.com/p/99a9956a02ee
+
+谷歌账号（验证用自己手机号）：谷歌邮箱:一.fa267754@gmail.com----During81287----darelleticonsamson6pki297@outlook.com
+
+                                                                 二.hodgkinsthomas03@gmail.com----f59t50bSx84----tazhymci24599706@mail.ru
+
+                                                                 三.alvarezwann@gmail.com----s61711cHtQ3----zbrarsyb17769449@mail.ru
+
+pytube获取视频字幕：https://www.imangodoc.com/b9417648.html
+
+yt-dlp 使用教程：https://zhuanlan.zhihu.com/p/618467617
